@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T19:37:26.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" etag="PsjHzxsVz2uhkPkarj-K" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-21T19:39:09.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" etag="I3ASp5af0HunWsZ1bCou" version="21.0.8" type="github">
   <diagram name="Página-1" id="KPXgi-UX2MajdnbyNQGS">
     <mxGraphModel dx="2293" dy="1975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,6 +99,15 @@
           <mxGeometry x="-300" y="-500" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AwAzdxmJKx9s8siGFr7Z-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AwAzdxmJKx9s8siGFr7Z-4" target="AwAzdxmJKx9s8siGFr7Z-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AwAzdxmJKx9s8siGFr7Z-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AwAzdxmJKx9s8siGFr7Z-4" target="AwAzdxmJKx9s8siGFr7Z-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AwAzdxmJKx9s8siGFr7Z-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AwAzdxmJKx9s8siGFr7Z-4" target="AwAzdxmJKx9s8siGFr7Z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AwAzdxmJKx9s8siGFr7Z-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AwAzdxmJKx9s8siGFr7Z-4" target="AwAzdxmJKx9s8siGFr7Z-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AwAzdxmJKx9s8siGFr7Z-4" value="chamado_pendente_terceiros" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
@@ -244,6 +253,12 @@
         </mxCell>
         <mxCell id="AwAzdxmJKx9s8siGFr7Z-63" value="imprime_relatorio_pendente" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
           <mxGeometry x="-190" y="-670" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AwAzdxmJKx9s8siGFr7Z-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AwAzdxmJKx9s8siGFr7Z-71" target="AwAzdxmJKx9s8siGFr7Z-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AwAzdxmJKx9s8siGFr7Z-71" value="imprime_relatorio_pendente_terceiros" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-680" width="220" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
