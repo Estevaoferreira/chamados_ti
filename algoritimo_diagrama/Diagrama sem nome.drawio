@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T19:48:48.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" etag="6sZkjKG0jqG74XpjqgJk" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-21T19:52:15.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" etag="hYQW30QbeMsJSn2FPpeO" version="21.0.8" type="github">
   <diagram name="Página-1" id="KPXgi-UX2MajdnbyNQGS">
-    <mxGraphModel dx="2038" dy="1835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2970" dy="2347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,14 +267,34 @@
         <mxCell id="AwAzdxmJKx9s8siGFr7Z-71" value="imprime_relatorio_pendente_terceiros" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
           <mxGeometry x="350" y="-680" width="220" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="AwAzdxmJKx9s8siGFr7Z-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AwAzdxmJKx9s8siGFr7Z-75" target="AwAzdxmJKx9s8siGFr7Z-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AwAzdxmJKx9s8siGFr7Z-75" value="todo_chamado" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
           <mxGeometry x="-200" y="-149" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="AwAzdxmJKx9s8siGFr7Z-82" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.375;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AwAzdxmJKx9s8siGFr7Z-78" target="AwAzdxmJKx9s8siGFr7Z-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AwAzdxmJKx9s8siGFr7Z-78" value="atualizar_tabela_5" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#99FF99;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="11" width="120" height="80" as="geometry" />
+          <mxGeometry x="-310" y="11" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AwAzdxmJKx9s8siGFr7Z-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AwAzdxmJKx9s8siGFr7Z-79" target="AwAzdxmJKx9s8siGFr7Z-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-340" y="-169" />
+              <mxPoint x="-120" y="-169" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="AwAzdxmJKx9s8siGFr7Z-79" value="imrpime_relatorio_completo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
           <mxGeometry x="-430" y="-149" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AwAzdxmJKx9s8siGFr7Z-83" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AwAzdxmJKx9s8siGFr7Z-78" target="AwAzdxmJKx9s8siGFr7Z-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" as="sourcePoint" />
+            <mxPoint x="160" y="-50" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
